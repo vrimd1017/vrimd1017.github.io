@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "utf-8"
-title                    : "Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : "KangSeokJu"
 description              : "Test"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kang SeokJu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "HIHIHIHI"
   location         : "Somewhere"
   email            :
   links:
