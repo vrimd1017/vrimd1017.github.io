@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "utf-8"
 title                    : "Home"
 title_separator          : "-"
-name                     : "KangSeokJu"
+name                     : "Kang SeokJu"
 description              : "Test"
 url                      : https://vrimd1017.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
